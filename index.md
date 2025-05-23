@@ -9,5 +9,9 @@
 System.out.println("Hello World!");
 ```
 ```javascript
-var myVar = "Hello, world!";
+var myVar = "Hello, world"
 ```
+# Add task list
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
